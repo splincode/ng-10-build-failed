@@ -1,7 +1,7 @@
 #### Introduction
 
 ```bash
-yarn intall
+yarn install
 yarn build
 
 # not working
