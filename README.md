@@ -1,1 +1,3 @@
-# ng-10-build-failed
+# Angular 10
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
