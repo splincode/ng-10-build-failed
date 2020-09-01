@@ -1,3 +1,8 @@
-# Angular 10
+#### Introduction
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
+```bash
+yarn intall
+yarn build
+
+# not working
+```
