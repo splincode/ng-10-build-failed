@@ -6,7 +6,7 @@
     "postinstall": "ln -s /var/tmp/yarn/ng10/node_modules/ node_modules && yarn ngcc --async --tsconfig \"./src/tsconfig.app.json\"",
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build"
+    "build": "ng build --prod"
   },
   "private": true,
   "devDependencies": {
